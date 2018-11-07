@@ -1,5 +1,4 @@
-#Quetes Git Les fondamentaux et Git Remote
+#Git Remote
 
-Stade Configuration
 
-Luke I am your father!!!!!!!!!!!!!!!!!
+Luke, I am your father!
