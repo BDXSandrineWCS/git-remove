@@ -1,3 +1,3 @@
-Quetes Git Les fondamentaux
+Quetes Git Les fondamentaux et Git Remote
 
 Stade Configuration
